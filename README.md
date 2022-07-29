@@ -1,6 +1,8 @@
 ### Hi there 👋
 ## Luan Alves Oliveira
 
+Técnico em eletrônica e bacharelando em Engenharia de Sistemas na UFMG, sempre me interessei por novas tecnologias e desenvolvimento de projetos. Durante minha formação técnica tive bastante contato com a área de hardware e com programação em C/C++ para desenvolvimento de sistemas embarcados, porem vi a necessidade cada vez maior de me aprofundar no ciclo de vida e desenvolvimento de um sistema complexo. Atualmente, busco me desenvolver por meio da minha formação e com desafios cada vez maiores.
+
 <div align="center">
   <a href="https://github.com/aoluan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aoluan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
