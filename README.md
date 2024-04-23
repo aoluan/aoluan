@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Luan Alves Oliveira
 
-Técnico em eletrônica e bacharelando em Engenharia de Sistemas na UFMG, sempre me interessei por novas tecnologias e desenvolvimento de projetos. Durante minha formação técnica tive bastante contato com a área de hardware e com programação em C/C++ para desenvolvimento de sistemas embarcados, porem vi a necessidade cada vez maior de me aprofundar no ciclo de vida e desenvolvimento de um sistema complexo. Atualmente, busco me desenvolver por meio da minha formação e com desafios cada vez maiores.
+I am an electronics technician and a bachelor's student in Systems Engineering at UFMG. I have always been interested in new technologies and project development. During my technical education, I had a lot of exposure to hardware and C/C++ programming for embedded systems development. However, I saw the growing need to delve deeper into the life cycle and development of complex systems. Currently, I am seeking to further my development through my education and I am open to increasingly challenging opportunities.
 
 <div align="center">
   <a href="https://github.com/aoluan">
